@@ -1,6 +1,9 @@
-
-h1
-{
-  font-weight: bold;
-  font-style: italic;
+body
+{  
+  h1
+  {
+    font-weight: bold;
+    font-style: italic;
+  }
+  background-color: coral;
 }
