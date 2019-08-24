@@ -1,9 +1,6 @@
 body
 {
   background-color: purple;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
-  color: white;
   font-size: 150%;
 }
   
