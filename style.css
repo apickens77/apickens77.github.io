@@ -1,9 +1,12 @@
 body
-{  
-  h1
-  {
-    font-weight: bold;
-    font-style: italic;
-  }
+{
   background-color: coral;
 }
+  
+h1
+{
+  font-weight: bold;
+  font-style: italic;
+}
+
+
