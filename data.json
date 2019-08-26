@@ -1,0 +1,17 @@
+{"root": {
+  "username": "apickens77",
+  "goal 1": {
+    "goal": "Work hard on this class as well as other",
+    "confidence": 7
+  },
+  "goal 2": {
+    "goal": "Make friends",
+    "confidence": 5
+  },
+  "goal 3": {
+    "goal": "Stop waiting for the last minute to do everything",
+    "confidence": 3
+  },
+  "goals": ["goal 1", "goal 2", "goal 3"]
+ }
+}
